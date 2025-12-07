@@ -1,3 +1,9 @@
 theme: minima
 title: Sacra - Notícias
 description: Anúncios e novidades sobre o app
+
+permalink: pretty
+
+minima:
+  show_excerpts: true
+  hide_site_title_in_footer: true
