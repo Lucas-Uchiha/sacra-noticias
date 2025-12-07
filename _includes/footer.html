@@ -1,0 +1,19 @@
+<footer class="site-footer h-card">
+    <data class="u-url" href="{{ "/" | relative_url }}"></data>
+
+    <div class="wrapper">
+        <div class="footer-col-wrapper">
+            <div class="footer-col footer-col-1">
+                <h2 class="site-title-footer">
+                    {{ site.title | default: site.github.repository_name }}
+                </h2>
+            </div>
+
+            <div class="footer-col footer-col-3">
+                <p class="text-small text-grey-dk-100 mb-0 text-right">
+                    {{ site.description | escape }}
+                </p>
+            </div>
+        </div>
+    </div>
+</footer>
