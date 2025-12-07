@@ -1,6 +1,6 @@
 ---
 layout: home
 ---
-# Bem-vindo ao meu blog
+# Bem-vindo
 
 Últimos anúncios.

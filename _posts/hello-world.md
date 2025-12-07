@@ -1,5 +1,5 @@
 ---
-title: Meu primeiro post
+title: Olá mundo!
 date: 2025-12-07
 ---
 # Olá mundo!
