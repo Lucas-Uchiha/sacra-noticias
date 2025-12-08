@@ -4,7 +4,6 @@ description: Anúncios e novidades sobre o app
 
 permalink: pretty
 lang: pt-BR
-date_format: "%d de %B de %Y"
 
 minima:
   skin: classic

@@ -1,0 +1,3 @@
+<time datetime="{{ page.date | date_to_xmlschema }}">
+    {{ page.date | date: "%d" }} de {{ page.date | localize: "%B" | downcase }} de {{ page.date | date: "%Y" }}
+</time>
